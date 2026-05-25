@@ -1,0 +1,6 @@
+{
+  "name": "BarberFlow AI",
+  "description": "Plataforma premium de gestão inteligente com automação de agendamentos via IA por WhatsApp, finanças e controle multi-tenant para barbearias de alto nível.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
